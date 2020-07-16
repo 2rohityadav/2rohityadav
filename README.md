@@ -1,16 +1,16 @@
 ## Hey 👋🏽, I'm [Rohit!](https://rohityadav.info) 
 
 <br/>
-<a href="https://twitter.com/__rohityadav">
+<a href="https://twitter.com/__rohityadav" target="_blank">
   <img align="left" alt="Rohit's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/rohityadavinfo/">
+<a href="https://www.linkedin.com/in/rohityadavinfo/" target="_blank">
   <img align="left" alt="Rohit's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://t.me/rohityadav1">
+<a href="https://t.me/rohityadav1" target="_blank">
   <img align="left" alt="Rohit's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.reddit.com/user/rohyadav">
+<a href="https://www.reddit.com/user/rohyadav" target="_blank">
   <img align="left" alt="Rohit's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
 
