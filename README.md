@@ -16,7 +16,7 @@
 
 <br />
 
-### Hi, I'm Rohit Yadav, a Frontend Developer 👨🏽‍💻 from India, 
+### Hi, I'm Rohit Yadav, a Frontend Developer 👨🏽‍💻 from India 🇮🇳
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/SYKSH4GtoA0wXlhn2m/giphy.gif" />
   
