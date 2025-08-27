@@ -2,16 +2,13 @@
 
 <br/>
 <a href="https://twitter.com/__rohityadav" target="_blank">
-  <img align="left" alt="Rohit's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Rohit's Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/rohityadavinfo/" target="_blank">
-  <img align="left" alt="Rohit's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://t.me/rohityadav1" target="_blank">
-  <img align="left" alt="Rohit's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Rohit's LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
 </a>
 <a href="https://www.reddit.com/user/rohyadav" target="_blank">
-  <img align="left" alt="Rohit's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+  <img align="left" alt="Rohit's Reddit" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" />
 </a>
 
 <br />
@@ -22,9 +19,9 @@
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on Angular, React;
-- 🌱 I’m currently learning GraphQL and VueJs;
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
+- 👨🏽‍💻 I’m currently working on Angular, React, VueJs;
+- 🌱 I’m currently learning StencilJS and React Native;
+- 🤔 I’m looking for help with React Native;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: rohityadav.techie@gmail.com;
 
